@@ -1,6 +1,8 @@
 # 我的前端日志（一）
 + 作者：洪鑫   
-+ 时间：2018-07-02 ~ 07-05  
++ 时间：2018-07-02 ~ 07-06  
++ 本文在[GitHub的地址](https://github.com/xingteng/Journals_in_DuoHuo/edit/master/To%20draw%20triangles%20with%20CSS/To%20draw%20triangles%20with%20CSS.md)  
++ 部分代码效果可以[在CodePen地址上预览](https://codepen.io/XingTeng/pen/PavLQE?editors=1100)  
 我接触前端时间不长，这也是我第一次写这样的日志，内容中还有许多不完善的地方,在此感谢您的阅读与指正。
 ## 箭头菜单 —— 鼠标移动列表上时自动添加左右两个箭头（不使用插入图片的形式）
 ![image](red-arrow.jpg)
