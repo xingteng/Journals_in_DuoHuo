@@ -346,3 +346,4 @@ container的样式
 2. Luckyzhoufangbing的博客 [如何在网页里面做一个带阴影三角形](https://blog.csdn.net/Luckyzhoufangbing/article/details/80192682)
 3.  陈小峰（iefreer）的专栏 [如何使用纯CSS3创建一个简单的五角星图形](https://blog.csdn.net/iefreer/article/details/50718420)
 4. VeinYin. [边框画的三角形给shadow](https://www.cnblogs.com/veinyin/p/8690882.html)
+5. [深入理解CSS中的层叠上下文和层叠顺序-张鑫旭](https://www.zhangxinxu.com/wordpress/2016/01/understand-css-stacking-context-order-z-index/)
