@@ -314,10 +314,10 @@ box-shadow使得整个边框出现了阴影。即使z-index设置为2也无济�
 }
 ```
 
-注意：因为需要用::after覆盖::before的阴影，所以相应的把边框调大。把z-index的值调大，使其堆叠在最上方。最后调整position，把::after放到合适的位置。效果如图
+注意：因为需要用::after覆盖::before的阴影，所以相应的把边框调大。最后调整position，把::after放到合适的位置。效果如图
 ![image](t-box3.jpg)  
 我们对气泡对话框左侧的阴影进一步加深。把::before的最后一行代码改为
-```
+```css
 box-shadow: -2px 3px 9px rgba(0, 0, 0, .8);
 ```
 ![image](t-box4.jpg) 试比较两种效果  
@@ -346,4 +346,4 @@ container的样式
 2. Luckyzhoufangbing的博客 [如何在网页里面做一个带阴影三角形](https://blog.csdn.net/Luckyzhoufangbing/article/details/80192682)
 3.  陈小峰（iefreer）的专栏 [如何使用纯CSS3创建一个简单的五角星图形](https://blog.csdn.net/iefreer/article/details/50718420)
 4. VeinYin. [边框画的三角形给shadow](https://www.cnblogs.com/veinyin/p/8690882.html)
-5. [深入理解CSS中的层叠上下文和层叠顺序-张鑫旭](https://www.zhangxinxu.com/wordpress/2016/01/understand-css-stacking-context-order-z-index/)
+5. 张鑫旭.[深入理解CSS中的层叠上下文和层叠顺序](https://www.zhangxinxu.com/wordpress/2016/01/understand-css-stacking-context-order-z-index/)
