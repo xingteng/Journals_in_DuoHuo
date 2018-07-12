@@ -1,5 +1,5 @@
 # 我的前端日志（一）
-+ 作者：洪鑫   
++ 作者：星腾(XingTeng)   
 + 时间：2018-07-02 ~ 07-06  
 + 本文在[GitHub的地址](https://github.com/xingteng/Journals_in_DuoHuo/edit/master/To%20draw%20triangles%20with%20CSS/To%20draw%20triangles%20with%20CSS.md)  
 + 部分代码效果可以[在CodePen地址上预览](https://codepen.io/XingTeng/pen/PavLQE?editors=1100)  
