@@ -8,3 +8,6 @@ The journals I wrote in DuoHuo Club
 
 3. JavaScript第一步 - [JavaScript First Steps-MDN](https://github.com/xingteng/Journals_in_DuoHuo/blob/master/003.JavaScript%20First%20Steps-MDN/003.JavaScript%20First%20Steps-MDN.md)
 
+4. 博客搭建 - 可以在[我的博客主页](https://xingteng.github.io/2018/07/31/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/)中查看
+
+5. JavaScript基础要件概述 - [JavaScript building blocks](https://github.com/xingteng/Journals_in_DuoHuo/blob/master/005.JavaScript%20building%20blocks/005.JavaScript%20building%20blocks.md)
