@@ -100,7 +100,7 @@ section {
 
 也许你已经看到上方CSS代码第二行的length单位，我们采用了vh。这是视区的相关单位。可以参照张旭鑫的这篇[视区相关单位vw, vh..简介以及可实际应用场景](https://www.zhangxinxu.com/wordpress/2012/09/new-viewport-relative-units-vw-vh-vm-vmin/)，进行更深了解。
 
-
+2018/8/26更新 **增加了用transform的translate3d**实现视差滚动[地址](https://codepen.io/XingTeng/pen/PdZrMP)
 
 
 
