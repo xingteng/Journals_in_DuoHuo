@@ -14,4 +14,4 @@ The journals I wrote in DuoHuo Club
 
 6. 视差滚动学习-[Parallax Scrolling](https://github.com/xingteng/Journals_in_DuoHuo/blob/master/006.Parallax%20Scrolling/Parallax%20Scrolling.md)
 
-7. MDN-客户端API之操作文档-[Manipulating documents]()
+7. MDN-客户端API之操作文档-[Manipulating documents](https://github.com/xingteng/Journals_in_DuoHuo/blob/master/007.Manipulating%20documents/MDN%E6%93%8D%E4%BD%9C%E6%96%87%E6%A1%A3.md)
