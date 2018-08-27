@@ -13,3 +13,5 @@ The journals I wrote in DuoHuo Club
 5. JavaScript基础要件概述 - [JavaScript building blocks](https://github.com/xingteng/Journals_in_DuoHuo/blob/master/005.JavaScript%20building%20blocks/005.JavaScript%20building%20blocks.md)
 
 6. 视差滚动学习-[Parallax Scrolling](https://github.com/xingteng/Journals_in_DuoHuo/blob/master/006.Parallax%20Scrolling/Parallax%20Scrolling.md)
+
+7. MDN-客户端API之操作文档-[Manipulating documents]()
